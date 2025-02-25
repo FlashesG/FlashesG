@@ -61,7 +61,7 @@ header {
 /* トップセクション */
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url('カメラの背景画像.jpg');
+  background-image: url('camera_background.jpg');
   background-size: cover;
   background-position: center;
   color: white;
