@@ -1,0 +1,16 @@
+{
+  "password": "Z0FBQUFBQm4xbUNRVjZCM0dfQUNQZnlxbW1PRThlYTNqSzRGTVlmRnFJQ0FVdVFJTnZQcnFoczF5SzZWbnI1MFBqUjRUN0JISms0aWVFT013eUZqQ19tbzJkcVU5S3llSHc9PQ==",
+  "chrome_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "profile_directory": "Profile 7",
+  "debug_port": "9222",
+  "verbose_log": false,
+  "monitoring_interval": 30,
+  "wait_time": 5,
+  "max_retries": 5,
+  "payment_method": "daibiki",
+  "poll_frequency": 0.2,
+  "page_load_timeout": 20,
+  "script_timeout": 15,
+  "force_stop_timeout": 2000,
+  "auto_switch_tab": false
+}
